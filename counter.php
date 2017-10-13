@@ -12,7 +12,7 @@ echo " hits" ;
 echo "\n" ;
 
 // opens countlog.txt to change new hit number
-$datei = fopen("/countlog.txt","w");
+$datei = fopen("countlog.txt","w");
 fwrite($datei, $count);
 fclose($datei);
 
