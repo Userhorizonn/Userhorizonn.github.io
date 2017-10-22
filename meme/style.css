@@ -1,0 +1,28 @@
+html { 
+  background: url(image/infowarbackground.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+h1{
+	color: white;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+p{
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h5{
+	color: white;
+	font-family: "Courier New", Courier, monospace;
+}
+
+a{
+	color: green;
+text-decoration: none;
+}
